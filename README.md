@@ -74,7 +74,7 @@ nosql-mongodb-laptop-market-analysis/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/nosql-laptop-market-analysis.git
+   git clone https://github.com/ozan40/nosql-mongodb-laptop-market-analysis.git
    cd nosql-laptop-market-analysis
    ```
 2. **Set up MongoDB Atlas (NoSQL Database)**
